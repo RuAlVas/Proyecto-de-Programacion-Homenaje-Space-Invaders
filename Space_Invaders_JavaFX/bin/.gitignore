@@ -1,0 +1,17 @@
+/.DS_Store
+/Bala.class
+/Enemigo.class
+/Escenario.class
+/GameOver$MenuHandler.class
+/GameOver.class
+/Hitbox.class
+/Intrucciones$MenuHandler.class
+/Intrucciones.class
+/Nave.class
+/PantallaInicial$InstructionsHandler.class
+/PantallaInicial$PlayHandler.class
+/PantallaInicial$QuitHandler.class
+/PantallaInicial.class
+/PantallaJuego.class
+/Sprite.class
+/Sprites/
